@@ -1,0 +1,6 @@
+{
+  "name": "CampusShare – Smart Campus Resource Sharing & Equipment Tracking",
+  "description": "Intelligent campus resource sharing and equipment tracking platform connecting students, resource owners, administrators, and educational institutions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
